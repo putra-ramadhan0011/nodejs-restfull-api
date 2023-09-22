@@ -1,7 +1,7 @@
 {
-  "name": "belajar-nodejs-restful-api",
+  "name": "nodejs-restfull-api",
   "version": "1.0.0",
-  "description": "Belajar NodeJS RESTful API",
+  "description": "My first NodeJS RESTfull API Project",
   "main": "src/main.js",
   "scripts": {
     "test": "jest -i"
@@ -11,7 +11,7 @@
       "^.+\\.[t|j]sx?$": "babel-jest"
     }
   },
-  "author": "Eko Kurniawan Khannedy",
+  "author": " Putra Ramadhan",
   "license": "ISC",
   "type": "module",
   "dependencies": {
